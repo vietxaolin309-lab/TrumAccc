@@ -1,0 +1,3 @@
+config .env 
+callback -> domain.com/callback/card
+set admin= 4
